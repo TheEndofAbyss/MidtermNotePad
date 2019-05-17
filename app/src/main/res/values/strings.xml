@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MidtermNotePad</string>
+    <string name="live_folder_name">Notes</string>
+
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">名称: %1$s</string>
+    <string name="title_notes_list">记事本</string>
+
+    <string name="menu_add">New note</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_paste">粘贴</string>
+
+    <string name="button_ok">OK</string>
+    <string name="text_title">Title:</string>
+
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">更改名称</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Error loading note</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+
+    <string name="output_ok">Ok</string>
+    <string name="menu_output">Output</string>
+    <string name="output_name">Oname</string>
+</resources>
