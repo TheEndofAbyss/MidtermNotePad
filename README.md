@@ -60,6 +60,13 @@ private void SearchView(){
 ```
 
 3.结果截图：
+主界面：
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/cz1.png)
+
+查找后：
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/cz2.png)
 
 （2）时间戳
 
@@ -127,6 +134,8 @@ adapter
    ```
 
 6.结果截图：
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/sj.png)
 
 二、额外功能
 
@@ -288,6 +297,11 @@ public class OutputText extends Activity {
 
 7.结果截图：
 
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/dc1.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/dc2.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/dc3.png)
 
 （2）在文件中添加图片
 
@@ -493,6 +507,10 @@ private void pushPicture(String note,ArrayList<String> contentList,ArrayList<Int
 
 8.结果截图：
 
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/tp1.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/tp2.png)
+
 （3）更改字体大小及颜色
 
 1.在editor_options_menu.xml中添加字体颜色大小选项：
@@ -545,6 +563,15 @@ case R.id.font_10:
 
 3.结果截图：
 
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/ztys1.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/ys1.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/ys2.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/zt1.png)
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/zt1.png)
 
 （4）添加背景图片
 
@@ -555,3 +582,5 @@ android:background="@drawable/你的背景图片名"
 ```
 
 2.结果截图：
+
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/bj.png)
