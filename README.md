@@ -571,7 +571,7 @@ case R.id.font_10:
 
 ![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/zt1.png)
 
-![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/zt1.png)
+![image](https://github.com/TheEndofAbyss/MidtermNotePad/blob/master/images/zt2.png)
 
 （4）添加背景图片
 
